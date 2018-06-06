@@ -1,5 +1,5 @@
 {
-  "name": "simple-react-native-checkbox",
+  "name": "react-native-basic-checkbox",
   "version": "0.1.0",
   "description": "\"minimalist checkbox library for React Native\"",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "android"
   ],
   "author": "Dana Scheider",
+  "owner": "danascheider",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.0",
