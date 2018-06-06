@@ -1,0 +1,25 @@
+{
+  "name": "simple-react-native-checkbox",
+  "version": "0.1.0",
+  "description": "\"minimalist checkbox library for React Native\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danascheider/simple-react-native-checkbox.git"
+  },
+  "homepage": "https://github.com/danascheider/simple-react-native-checkbox.git#readme",
+  "keywords": [
+    "react-native",
+    "checkbox",
+    "component",
+    "form",
+    "ios",
+    "android"
+  ],
+  "author": "Dana Scheider",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-native-vector-icons": "^4.0.0"
+  }
+}
