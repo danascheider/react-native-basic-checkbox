@@ -1,4 +1,4 @@
-# simple-react-native-checkbox
+# react-native-basic-checkbox
 This package provides two checkbox styles, light and dark. The light style
 uses the Font Awesome 4 `'square-o'` and `'check-square-o'` icons and the dark
 style uses the `'square'` and `'check-square'` icons. This will be changed
