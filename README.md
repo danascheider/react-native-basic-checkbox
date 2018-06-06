@@ -10,13 +10,13 @@ icons for `'square'` and `'square-o'`.
 
 Run the following to add to your package.json file:
 ```
-npm install simple-react-native-checkbox --save
+npm install react-native-basic-checkbox --save
 ```
 Then, create your component:
 ```javascript
 import React from 'react'
 import { AppRegistry, View } from 'react-native'
-import CheckBox from 'simple-react-native-checkbox'
+import CheckBox from 'react-native-basic-checkbox'
 
 export class CheckBoxWrapper extends React.Component {
 
